@@ -1,0 +1,13 @@
+{
+	"type": "root",
+	"children": [
+		{
+			"type": "element",
+			"tagName": "svg",
+			"metadata": "",
+			"properties": {
+				"viewBox": "0 0 50 10"
+			}
+		}
+	]
+}
